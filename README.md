@@ -5,7 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
+<p align="center"> 
+  <img src="./docs/img/app.png" width="50%" height="70%">
+</p>
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
